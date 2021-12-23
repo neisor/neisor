@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neisor
+- 👋 Hi, I’m @neisor (Antonio Raffaele Iannaccone)
 - 👀 I’m interested in Python and Vue.js
 - 💞️ I’m looking to collaborate on meaningful projects.
 - 📫 You can reach me by going to my webpage https://zerumone.sk/#/contact and choose one of the contact methods.
